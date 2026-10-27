@@ -2,6 +2,10 @@
 
 A responsive sales and delivery command center that keeps opportunities, technical handoffs and review gates in one workspace.
 
+[Live demo](https://stassinsergey-lang.github.io/closerflow-crm/) · [Source](https://github.com/stassinsergey-lang/closerflow-crm)
+
+![CloserFlow interface](assets/cover.png)
+
 ## Highlights
 
 - Drag-and-drop opportunity pipeline
